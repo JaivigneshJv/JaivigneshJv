@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **React Framework**
 - 💬 Ask me about **Competitive Programming or anything in general**
 - 📫 You can reach me at **Jaivignesh_Jv@outlook.com** 
-- 👾 Fun Fact -  I love to play Games 
+- 👾 Fun Fact -  I love to play Games (Todoroki #SekC)
 
 
 ## Socials:
