@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm V JAIVIGNESH 👋🖥️ </h1>
+<h1 align="center">Hi, I'm V JAIVIGNESH 👋  🖥️ </h1>
 <h3 align="center">Student // Developer // Tech Enthusiast </h3>
 
 - 🔭 I’m currently working on [React Project](https://github.com/JaivigneshJv/devrev)
