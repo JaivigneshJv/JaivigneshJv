@@ -30,12 +30,24 @@
 
 </br>
 </br>
-<h2 align="center">GitHub Trophies</h2>
+<h2>GitHub Trophies</h2>
 </br>
 
 
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=JaivigneshJv&theme=nord&no-frame=true&no-bg=&column=8">
 </p>
+<br>
+<h2>Random Quote</h2>
+<br>
+<div align="center">
+    
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+    
+<div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+    
+    
 <!-- created with https://gprm.itsvg.in and modified -->
