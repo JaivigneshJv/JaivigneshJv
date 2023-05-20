@@ -35,7 +35,7 @@
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JaivigneshJv&theme=nord&no-frame=true&no-bg=&column=7">
+<img src="https://github-profile-trophy.vercel.app/?username=JaivigneshJv&theme=nord&no-frame=true&no-bg=&column=8">
 </p>
 
 <!-- created with https://gprm.itsvg.in and modified -->
