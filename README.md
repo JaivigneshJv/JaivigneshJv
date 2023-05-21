@@ -60,7 +60,7 @@
 <div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,7 +106,7 @@ Mac                      2 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 21/05/2023 02:56:29 UTC
+ Last Updated on 21/05/2023 02:56:42 UTC
 <!--END_SECTION:waka-->
     
     
