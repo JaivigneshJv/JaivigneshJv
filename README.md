@@ -31,7 +31,10 @@
 
 </br>
 </br>
-<h2>GitHub Trophies</h2>
+
+
+## GitHub Trophies:
+
 </br>
 
 
@@ -39,19 +42,29 @@
 <img src="https://github-profile-trophy.vercel.app/?username=JaivigneshJv&theme=nord&no-frame=true&no-bg=&column=8">
 </p>
 <br>
-<h2>Random Quote</h2>
+
+## WakaTime Stats 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
+## Random Quote
 <br>
 <div align="center">
     
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
     
 <div>
+
     
 <hr>
     
 ![pxfuel](https://github.com/JaivigneshJv/JaivigneshJv/assets/71516398/7e0aaf9b-dac3-40dc-862b-142bc73e1d81)
 
 <hr>
+<br>
+
+
 
 <div align="left">
 
@@ -59,55 +72,7 @@
     
 <div>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 5.6 kB Used in GitHub's Storage 
- > 
-> 🏆 96 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                33 commits          ███████░░░░░░░░░░░░░░░░░░   29.20 % 
-🌆 Daytime                31 commits          ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-🌃 Evening                47 commits          ██████████░░░░░░░░░░░░░░░   41.59 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   17 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Tuesday                  16 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
-Wednesday                10 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Thursday                 6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-Friday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-Saturday                 39 commits          █████████░░░░░░░░░░░░░░░░   34.51 % 
-Sunday                   22 commits          █████░░░░░░░░░░░░░░░░░░░░   19.47 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Other                    2 hrs 29 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 21/05/2023 02:56:42 UTC
-<!--END_SECTION:waka-->
     
     
 <!-- created with https://gprm.itsvg.in and modified -->
