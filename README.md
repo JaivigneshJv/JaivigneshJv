@@ -45,20 +45,6 @@
 
 ## WakaTime Stats 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 5.6 kB Used in GitHub's Storage 
- > 
-> 🏆 96 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 6 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -91,7 +77,7 @@ Mac                      2 hrs 29 mins       ███████████�
 ```
 
 
- Last Updated on 21/05/2023 03:00:07 UTC
+ Last Updated on 21/05/2023 03:00:19 UTC
 <!--END_SECTION:waka-->
 
 
