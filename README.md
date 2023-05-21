@@ -60,6 +60,23 @@
 <div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2038%20mins-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    2 hrs 29 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Chrome                   2 hrs 29 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      2 hrs 29 mins       █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 21/05/2023 02:48:00 UTC
 <!--END_SECTION:waka-->
     
     
