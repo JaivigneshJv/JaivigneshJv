@@ -104,11 +104,7 @@ Mac                      9 hrs 34 mins       ████████░░░�
 
 
 
-<div align="left">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sut7ldiris58n498eclptmp1s&width=1000)
-    
-<div>
 
 
     
