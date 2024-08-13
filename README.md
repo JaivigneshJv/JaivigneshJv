@@ -1,5 +1,5 @@
 <h1 align="center">Hola! , I'm V JAIVIGNESH   🖥️ </h1>
-<h3 align="center">Student // Tech Enthusiast </h3>
+<h3 align="center">Developer // Tech Enthusiast </h3>
 
 - 🔭 I’m currently working on [React Project](https://github.com/JaivigneshJv/devrev)
 - 🤝 I would appreciate any help on any of my projects
