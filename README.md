@@ -86,14 +86,6 @@ Mac                      8 hrs 46 mins       ██████████░�
 <!--END_SECTION:waka-->
 
 
-## Random Quote
-<br>
-<div align="center">
-    
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-    
-<div>
-
     
 <hr>
     
